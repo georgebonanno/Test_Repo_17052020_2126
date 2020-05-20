@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 text to commit 2020-05-20T20:50:40.869Zdfasdf
 =======
 text to commit 2020-05-20T21:02:31.448Z
